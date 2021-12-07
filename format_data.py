@@ -13,7 +13,7 @@ def format_data(args):
     df = df.drop(df.columns[1:5], axis=1)
     df = df.sample(frac=1)
 
-    # changing all instances where sentiment = 4 to 0
+    # changing all instances where sentiment = 4 to 1
     df.loc[df['sentiment'] == 4, 'sentiment'] = 1
 
     # ensures that the sentiment values are integers, not strings
