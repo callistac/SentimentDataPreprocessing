@@ -10,6 +10,7 @@ This script contains the data preprocessing script used to format data for Senti
   ```
 4. Clone this code to your local device in a desirable location (i.e. you might want to create a folder on your Desktop called `google_workshop`):
   ```
+  mkdir ~/Desktop/google_workshop
   cd ~/Desktop/google_workshop
   git clone https://github.com/callistac/SentimentDataPreprocessing.git
   ```
