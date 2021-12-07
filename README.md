@@ -1,5 +1,5 @@
 # Sentiment Data Preprocessing
-This script contains the data preprocessing script used to format data for Sentiment Analysis training using Vertex AI on GCP.
+This script contains the data preprocessing script used to format data for Sentiment Analysis training using Vertex AI on GCP. If you are not comfortable with terminal or command prompt, you may want to skip these instructions and copy / paste the code in the `format_data.py` file in this repository into a Jupyter Notebook, but we encourage you to try running this in terminal first!
 
 ## Setup
 1. Make sure you have [Python3](https://www.python.org/downloads/) installed on your machine
